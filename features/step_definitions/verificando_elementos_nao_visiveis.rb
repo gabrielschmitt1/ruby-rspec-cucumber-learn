@@ -10,7 +10,6 @@ Entao("eu verifico se ele existe") do
     #page.assert_text(text, 'Você Clicou no Botão!')
     #page.has_text?('Você Clicou no Botão!')
     have_text('Você Clicou no Botão!')
-
     find('#teste').click
     page.assert_no_text(text, 'Você Clicou no Botão!')
     page.has_no_text?('Você Clicou no Botão!')

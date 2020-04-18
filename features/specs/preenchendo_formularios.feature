@@ -4,5 +4,6 @@
 Funcionalidade: Preencher formularios
 
 Cenario: Realizar cadastro de usuario
-Quando eu preencho formularios de cadastro
+Quando eu preencho o formulario de cadastro
 Entao eu verifico se fui cadastrado
+

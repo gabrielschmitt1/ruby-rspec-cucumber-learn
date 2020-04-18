@@ -1,4 +1,4 @@
-Quando("eu preencho formularios de cadastro") do
+Quando("eu preencho o formulario de cadastro") do
     visit '/users/new'
     fill_in(id: 'user_name', with: 'Gabriel')
     find("#user_lastname").set('Schmitt')

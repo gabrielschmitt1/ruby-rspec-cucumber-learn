@@ -15,6 +15,5 @@ Entao("eu verifico se o elemento esta presente na pagina.") do
     first('.btn')
     # Busca pelo link especificado
     find_link(href: 'https://www.youtube.com/channel/UCp554v_is_ZzjzSmAQyFfAA')
-
 end
   

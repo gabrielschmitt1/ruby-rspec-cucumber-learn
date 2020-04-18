@@ -1,4 +1,4 @@
-Quando("eu seleciono um Checkbox") do
+Quando("eu seleciono um Dropdown") do
     visit '/buscaelementos/dropdowneselect'
     find('.btn.dropdown-button').click
     # Buscar por elemento btn

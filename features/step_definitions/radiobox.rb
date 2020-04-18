@@ -1,4 +1,4 @@
-Quando("eu seleciono um radio e checkbox") do
+Quando("eu seleciono um radiobox e checkbox") do
     visit '/buscaelementos/radioecheckbox'
     find('label[for="black"]').click
     sleep(3)

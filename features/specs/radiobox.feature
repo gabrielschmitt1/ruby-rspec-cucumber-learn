@@ -3,5 +3,5 @@
 
 Funcionalidade: Trabalhar com radiobox
 
-Cenario: Selecionar um radio e checkbox
-Quando eu seleciono um radio e checkbox 
+Cenario: Selecionar um radiobox e checkbox
+Quando eu seleciono um radiobox e checkbox 
