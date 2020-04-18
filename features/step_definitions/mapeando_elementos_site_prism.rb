@@ -7,7 +7,3 @@ Quando("eu utilizo um elemento mapeado") do
     sleep(5)
 
 end
-
-Entao("eu verifico se o resulta é o esperado.") do
-  pending # Write code here that turns the phrase above into concrete actions
-end
