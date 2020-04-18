@@ -5,6 +5,7 @@ require 'site_prism'
 require_relative 'page_helper.rb'
 # Coloquei o modulo criado como Global
 World(PageObjects)
+World(Helper)
 
 BROWSER = ENV['BROWSER']
 AMBIENTE = ENV['AMBIENTE']

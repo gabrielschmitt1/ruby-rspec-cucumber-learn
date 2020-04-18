@@ -71,6 +71,7 @@ GEM
       capybara (~> 3.3)
       site_prism-all_there (>= 0.3.1, < 1.0)
     site_prism-all_there (0.3.2)
+    syntax (1.2.2)
     xpath (3.2.0)
       nokogiri (~> 1.8)
 
@@ -85,6 +86,7 @@ DEPENDENCIES
   rspec
   selenium-webdriver
   site_prism
+  syntax
 
 BUNDLED WITH
    2.1.4
