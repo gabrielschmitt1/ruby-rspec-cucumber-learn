@@ -1,0 +1,1 @@
+Projeto para aprendizado de automoção com Ruby, Rspec, Cucumber
